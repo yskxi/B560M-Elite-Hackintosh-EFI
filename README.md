@@ -16,7 +16,7 @@
 
 ## What is working:
 
-GPU Acceleration (![See RX550 LEXA patch]())<br>
+GPU Acceleration (![See RX550 LEXA patch](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI#rx-550-lexa-patch))<br>
 Audio<br>
 All USB Ports<br>
 iCloud<br>
