@@ -7,17 +7,17 @@
 
 ## Specs:
 
-**Processor**: i7-10700f
-**Motherboard**: Gigabyte B560 Aorus Elite (Unsure of BIOS version)
-**Graphic card**: Sapphire AMD RX550 Lexa 4 GB
-**Ram**: XPG Spectrix D41 TUF Gaming Limited Edition RGB 3200MHz 16GB (2x8)
+**Processor**: i7-10700f<br>
+**Motherboard**: Gigabyte B560 Aorus Elite (Unsure of BIOS version)<br>
+**Graphic card**: Sapphire AMD RX550 Lexa 4 GB<br>
+**Ram**: XPG Spectrix D41 TUF Gaming Limited Edition RGB 3200MHz 16GB (2x8)<br>
 
 ## What is working:
 
-GPU Acceleration (![See RX550 LEXA patch]())
-Audio
-All USB Ports
-iCloud
+GPU Acceleration (![See RX550 LEXA patch]())<br>
+Audio<br>
+All USB Ports<br>
+iCloud<br>
 
 ## What dosen't work:
 
