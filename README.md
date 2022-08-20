@@ -26,7 +26,6 @@ iCloud<br>
 Sleep?<br>
 H264 & HEVC Codecs<br>
 <img src="https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/Images/Screen%20Shot%202022-08-20%20at%2019.32.47.png?raw=true" alt="drawing" width="500"/>
-![]()
 
 ## Benchmarks:
 
