@@ -15,14 +15,16 @@
 
 ## O que está funcionando:
 
-GPU Acceleration ([Veja: Patch RX 550 Lexa](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/READMEPTBR.md#patch-rx-550-lexa))<br>
+GPU Acceleration ([Veja Patch RX 550 Lexa](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/READMEPTBR.md#patch-rx-550-lexa))<br>
 Audio<br>
 Todas as portas USB<br>
 iCloud<br>
 
 ## O que não funciona:
 
-Sleep?
+Sleep?<br>
+H264 & HEVC Codecs<br>
+<img src="https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/Images/Screen%20Shot%202022-08-20%20at%2019.32.47.png?raw=true" alt="drawing" width="500"/>
 
 ## Benchmarks:
 
@@ -37,6 +39,6 @@ Qual modelo da RX 550 eu tenho?<br>
 
 ## Obrigado:
 
-[Apple pelo macOS](apple.com)<br>
-[Gabriel Luchina por guias de hackintosh e efi base](https://www.youtube.com/watch?v=mSnqjKFXbBg)<br>
-[Opencore team pelo opencore](https://dortania.github.io/getting-started/)<br>
+[Apple pelo macOS](https://apple.com)<br>
+[Gabriel Luchina por guias de hackintosh e efi base](https://www.youtube.com/c/GabrielLuchina)<br>
+[Time do opencore pelo opencore](https://dortania.github.io/getting-started/)<br>
