@@ -2,10 +2,10 @@
 [Procurando a versão em português?](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/READMEPTBR.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![](https://camo.githubusercontent.com/67eb7c8b1ed6c9019f25d5ac1331577db2b42f15303a452aa91e94fc4565019a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76312e7376673f6c6162656c3d436f6e747269627574696f6e73266d6573736167653d57656c636f6d6526636f6c6f723d303035396233267374796c653d666c61742d737175617265)
 
-![About](https://raw.githubusercontent.com/ina-lol/B560-Elite-Hackintosh-EFI/main/Images/Screen%20Shot%202022-07-26%20at%2023.44.13.png)
+![About](https://raw.githubusercontent.com/ina-lol/B560-Elite-Hackintosh-EFI/main/Images/Screenshot%202022-08-19%20at%2023.43.06.png)
 
 **Opencore version**: 0.8.3<br>
-**Latest macOS working**: 12.5.1
+**Latest macOS working**: 13 (22A5321d)
 
 ## Specs:
 
