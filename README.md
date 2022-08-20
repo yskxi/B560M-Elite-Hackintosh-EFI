@@ -16,7 +16,7 @@
 
 ## What is working:
 
-GPU Acceleration (![See RX550 LEXA patch](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI#rx-550-lexa-patch))<br>
+GPU Acceleration ([See RX550 LEXA patch](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI#rx-550-lexa-patch))<br>
 Audio<br>
 All USB Ports<br>
 iCloud<br>
@@ -27,17 +27,17 @@ Sleep?
 
 ## Benchmarks:
 
-CPU: ![Click here](https://browser.geekbench.com/v5/cpu/16741085)
+CPU: [Click here](https://browser.geekbench.com/v5/cpu/16741085)
 
 ## RX 550 LEXA patch:
 
 RX 550 has 2 models Lexa and Baffin, the lexa models are incompatible with macOS however we can get then to work with some patches
-![See Gabriel Luchina's video](https://www.youtube.com/watch?v=mSnqjKFXbBg)<br>
+[See Gabriel Luchina's video](https://www.youtube.com/watch?v=mSnqjKFXbBg)<br>
 Which RX 550 model do i have?<br> 
-![See this issue](https://github.com/dortania/bugtracker/issues/129)
+[See this issue](https://github.com/dortania/bugtracker/issues/129)
 
 ## Thanks:
 
-![Apple for macOS](apple.com)<br>
-![Gabriel Luchina for hackintosh guides and base efi](https://www.youtube.com/watch?v=mSnqjKFXbBg)<br>
-![Opencore team for opencore](https://dortania.github.io/getting-started/)<br>
+[Apple for macOS](apple.com)<br>
+[Gabriel Luchina for hackintosh guides and base efi](https://www.youtube.com/watch?v=mSnqjKFXbBg)<br>
+[Opencore team for opencore](https://dortania.github.io/getting-started/)<br>
