@@ -25,6 +25,10 @@ iCloud<br>
 
 Sleep?
 
+## Benchmarks:
+
+CPU: ![Click here](https://browser.geekbench.com/v5/cpu/16741085)
+
 ## RX 550 LEXA patch:
 
 RX 550 has 2 models Lexa and Baffin, the lexa models are incompatible with macOS however we can get then to work with some patches
