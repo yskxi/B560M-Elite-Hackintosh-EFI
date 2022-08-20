@@ -27,7 +27,7 @@ Sleep?
 ## RX 550 LEXA patch:
 
 RX 550 has 2 models Lexa and Baffin, the lexa models are incompatible with macOS however we can get then to work with some patches
-![See Gabriel luchina video](https://www.youtube.com/watch?v=mSnqjKFXbBg)<br>
+![See Gabriel Luchina video](https://www.youtube.com/watch?v=mSnqjKFXbBg)<br>
 Which RX 550 model do i have?<br> 
 ![See this issue](https://github.com/dortania/bugtracker/issues/129)
 
