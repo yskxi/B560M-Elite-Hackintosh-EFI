@@ -4,7 +4,7 @@
 ![About](https://raw.githubusercontent.com/ina-lol/B560-Elite-Hackintosh-EFI/main/Images/Screenshot%202022-08-19%20at%2023.43.06.png)
 
 **Versão do Opencore**: 0.8.3<br>
-**Ultima Versão do macOS funcionando**: 13 (22A5321d)
+**Ultima Versão do macOS funcionando**: 13 (22A5331f)
 
 ## Especificações:
 
