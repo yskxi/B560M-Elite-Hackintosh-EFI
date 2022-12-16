@@ -28,7 +28,7 @@ H264 & HEVC Codecs<br>
 
 ## Benchmarks:
 
-CPU: [Clique aqui](https://browser.geekbench.com/v5/cpu/16741085)
+CPU: [Clique aqui](https://browser.geekbench.com/v5/cpu/19326059)
 
 ## Patch RX 550 Lexa:
 
