@@ -2,9 +2,9 @@
 [Procurando a versão em português?](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/READMEPTBR.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![](https://camo.githubusercontent.com/67eb7c8b1ed6c9019f25d5ac1331577db2b42f15303a452aa91e94fc4565019a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76312e7376673f6c6162656c3d436f6e747269627574696f6e73266d6573736167653d57656c636f6d6526636f6c6f723d303035396233267374796c653d666c61742d737175617265)
 
-![About](https://raw.githubusercontent.com/ina-lol/B560-Elite-Hackintosh-EFI/main/Images/Screen%20Shot%202022-07-26%20at%2023.44.13.png)
+![About](https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/Assets/Screenshot%202023-01-24%20at%2020.52.15.png?raw=true)
 
-**Opencore version**: 0.8.3<br>
+**Opencore version**: 0.8.8<br>
 **Latest macOS working**: 12.5.1
 
 ## Specs:
@@ -25,7 +25,6 @@ iCloud<br>
 
 Sleep?<br>
 H264 & HEVC Codecs<br>
-<img src="https://github.com/ina-lol/B560-Elite-Hackintosh-EFI/blob/main/Images/Screen%20Shot%202022-08-20%20at%2019.32.47.png?raw=true" alt="drawing" width="500"/>
 
 ## Benchmarks:
 
