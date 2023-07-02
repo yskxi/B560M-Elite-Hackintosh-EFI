@@ -23,7 +23,6 @@ iCloud<br>
 
 ## What dosen't work:
 
-Sleep?<br>
 H264 & HEVC Codecs<br>
 
 ## Benchmarks:
