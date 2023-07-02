@@ -31,7 +31,7 @@ CPU: [Click here](https://browser.geekbench.com/v5/cpu/19326059)
 
 ## CPU & GPU name
 
-The GPU name is modified by the efi one key on Device properties and the CPU name can be accurate to your CPU using CPUname [here](https://github.com/corpnewt/CPU-Name), this script uses the restrict events kext (already included on the EFI)
+The GPU name is modified by the efi, using a key on Device properties and the CPU name can be accurate to your CPU using CPUname [here](https://github.com/corpnewt/CPU-Name), this script uses the restrict events kext (already included on the EFI)
 
 ## RX 550 LEXA patch:
 
