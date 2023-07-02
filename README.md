@@ -29,6 +29,10 @@ H264 & HEVC Codecs<br>
 
 CPU: [Click here](https://browser.geekbench.com/v5/cpu/19326059)
 
+## CPU & GPU name
+
+The GPU name is modified by the efi one key on Device properties and the CPU name can be accurate to your CPU using CPUname [here](https://github.com/corpnewt/CPU-Name), this script uses the restrict events kext (already included on the EFI)
+
 ## RX 550 LEXA patch:
 
 RX 550 has 2 models Lexa and Baffin, the lexa models are incompatible with macOS however we can get then to work with some patches
