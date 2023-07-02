@@ -45,3 +45,6 @@ Which RX 550 model do i have?<br>
 [Apple for macOS](https://apple.com)<br>
 [Gabriel Luchina for hackintosh guides and base efi](https://www.youtube.com/c/GabrielLuchina)<br>
 [Opencore team for opencore](https://dortania.github.io/getting-started/)<br>
+
+
+PS: you can contact me by email too! me@inalove.site
