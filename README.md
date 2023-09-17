@@ -1,4 +1,7 @@
 # [🇺🇸] My Hackintosh EFI!
+
+<img src="https://moe-counter.glitch.me/get/@hackintoshefiinalol?theme=rule34">
+
 [Procurando a versão em português?](https://github.com/ina-lol/B560M-Elite-Hackintosh-EFI/blob/main/READMEPTBR.md)<br><br>
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) ![](https://camo.githubusercontent.com/67eb7c8b1ed6c9019f25d5ac1331577db2b42f15303a452aa91e94fc4565019a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76312e7376673f6c6162656c3d436f6e747269627574696f6e73266d6573736167653d57656c636f6d6526636f6c6f723d303035396233267374796c653d666c61742d737175617265)
 
@@ -46,5 +49,4 @@ Which RX 550 model do i have?<br>
 [Gabriel Luchina for hackintosh guides and base efi](https://www.youtube.com/c/GabrielLuchina)<br>
 [Opencore team for opencore](https://dortania.github.io/getting-started/)<br>
 
-
-PS: you can contact me by email too! me@inalove.site
+PS: You can contact me by discord! inas2
