@@ -49,4 +49,4 @@ Which RX 550 model do i have?<br>
 [Gabriel Luchina for hackintosh guides and base efi](https://www.youtube.com/c/GabrielLuchina)<br>
 [Opencore team for opencore](https://dortania.github.io/getting-started/)<br>
 
-PS: You can contact me by discord! inas2
+PS: You can contact me via discord! inas2
